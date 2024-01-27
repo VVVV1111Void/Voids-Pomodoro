@@ -1,0 +1,7 @@
+{
+  "name": "pomodoro_v",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
